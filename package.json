@@ -1,0 +1,14 @@
+{
+  "name": "starlight-reading-time",
+  "version": "0.1.0",
+  "description": "Reading time and last-updated date under every Starlight page title, plus a note on pages that have not been updated in a long time. Handles Chinese, Japanese and Korean. Free, no account, no backend.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["astro", "starlight", "starlight-plugin", "withastro", "docs", "reading-time", "last-updated", "outdated", "freshness"],
+  "repository": { "type": "git", "url": "git+https://github.com/fengyiqicoder/starlight-reading-time.git" },
+  "homepage": "https://github.com/fengyiqicoder/starlight-reading-time",
+  "exports": { ".": "./index.js", "./client": "./client.js" },
+  "files": ["index.js", "client.js", "plugin.js", "README.md", "LICENSE"],
+  "dependencies": { "starlight-onetag": "^0.4.0" },
+  "peerDependencies": { "@astrojs/starlight": ">=0.32.0", "astro": ">=5.0.0" }
+}
