@@ -59,6 +59,8 @@ With the switch off (the default) nothing AI-related is loaded.
 ## More for Starlight
 
 - [starlight-page-feedback](https://github.com/fengyiqicoder/starlight-page-feedback): "Was this page helpful?", sent to the analytics you already run.
+- [starlight-share-highlight](https://github.com/fengyiqicoder/starlight-share-highlight): select text to copy a link that jumps to and highlights it.
+- [starlight-glossary](https://github.com/fengyiqicoder/starlight-glossary): define a term once and readers get its definition in a tooltip wherever it appears, plus a glossary page.
 - [starlight-onetag](https://github.com/fengyiqicoder/starlight-onetag): Ask AI, AI answers in search, page translation for readers, Explain this code.
 
 ## License
